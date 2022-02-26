@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AidanK22
 - 👀 I’m interested in trading and coding
 - 🌱 I’m currently learning how to build fullstack applications
-- 💞️ I’m looking to collaborate on interesting people
+- 💞️ I’m looking to collaborate with interesting people
 
 
 <!---
